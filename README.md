@@ -3,6 +3,9 @@
 HTML | CSS | JavaScript | React
 
 ![HTML](/icons8-html5-100.png)
+![HTML](/icons8-css-100.png)
+![HTML](/icons8-javascript-100.png)
+![HTML](/icons8-react-100.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript
