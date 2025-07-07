@@ -9,8 +9,8 @@ Copilot | ChatGPT
 ![JAVASCRIPT](/icons8-javascript-100.png)
 ![REACT](/icons8-react-100.png)
 
-![COPILOT](/icon8-github-copilot-100.png)
-![CHATGPT](/icon8-chatgpt-96.png)
+![COPILOT](/icons8-github-copilot-100.png)
+![CHATGPT](/icons8-chatgpt-96.png)
 
 - 🔭 I’m currently working on small HTML and CSS projects.
 - 🌱 I’m currently learning JavaScript.
