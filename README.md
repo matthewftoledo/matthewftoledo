@@ -2,13 +2,14 @@
 
 HTML | CSS | JavaScript | React
 
-Copilot | ChatGPT
+VS Code | Copilot | ChatGPT
 
 ![HTML](/icons8-html5-100.png)
 ![CSS](/icons8-css-100.png)
 ![JAVASCRIPT](/icons8-javascript-100.png)
 ![REACT](/icons8-react-100.png)
 
+![VSCODE](/icons8-vs-code-96.png)
 ![COPILOT](/icons8-github-copilot-100.png)
 ![CHATGPT](/icons8-chatgpt-96.png)
 
