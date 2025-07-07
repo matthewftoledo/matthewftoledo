@@ -1,5 +1,9 @@
 # I'm Matthew Toledo and I'm a Web Developer. 👋🏻
 
+---
+
+<hr style="border: 0; border-top: 0.5px solid #ccc;" />
+
 HTML | CSS | JavaScript | React
 
 VS Code | Copilot | ChatGPT
