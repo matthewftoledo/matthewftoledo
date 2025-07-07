@@ -1,11 +1,15 @@
 # I'm Matthew Toledo and I'm a Web Developer. 👋🏻
 
 HTML | CSS | JavaScript | React
+Copilot | ChatGPT
 
 ![HTML](/icons8-html5-100.png)
 ![CSS](/icons8-css-100.png)
 ![JAVASCRIPT](/icons8-javascript-100.png)
 ![REACT](/icons8-react-100.png)
+
+![COPILOT](/icon8-github-copilot-100.png)
+![CHATGPT](/icon8-chatgpt-96.png)
 
 - 🔭 I’m currently working on small HTML and CSS projects.
 - 🌱 I’m currently learning JavaScript.
