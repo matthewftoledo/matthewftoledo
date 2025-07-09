@@ -6,7 +6,7 @@ I'm reliable, easy to work with, and love turning ideas into great-looking sites
 
 ---
 
-Matthew Toledo social media site.  <a href="https://matthewftoledo-social.netlify.app/)" target="_blank">Social Media webpage</a>
+Matthew Toledo social media site.  <a href="https://matthewftoledo-social.netlify.app/" target="_blank">Social Media webpage</a>
 
 HTML | CSS | JavaScript | React
 
