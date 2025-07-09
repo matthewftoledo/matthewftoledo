@@ -20,8 +20,11 @@ VS Code | Copilot | ChatGPT
 ![CHATGPT](/icons8-chatgpt-96.png)
 
 🔭 I’m currently working on small HTML and CSS projects.
+
 🌱 I’m currently learning JavaScript.
+
 🤔 I’m looking for help with learning JavaScript I know data type, basic function.  I guess what I need to know is Call Backs.
+
 📫 How to reach me: LinkedIn or email.
 
 <!--
