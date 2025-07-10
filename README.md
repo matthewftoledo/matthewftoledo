@@ -31,7 +31,7 @@ VS Code | Copilot | ChatGPT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewftoledo&label=Profile%20views&color=0e75b6&style=flat" alt="matthewftoledo" /> </p>
 
-![](https://komarev.com/ghpvc/?username=matthewftoledo&color=dc143c)
+![](https://komarev.com/ghpvc/?username=matthewftoledo&color=118800)
 
 <!--
 **matthewftoledo/matthewftoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
