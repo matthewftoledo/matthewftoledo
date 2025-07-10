@@ -29,8 +29,6 @@ VS Code | Copilot | ChatGPT
 
 📫 How to reach me: LinkedIn or email.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewftoledo&label=Profile%20views&color=0e75b6&style=flat" alt="matthewftoledo" /> </p>
-
 ![](https://komarev.com/ghpvc/?username=matthewftoledo&color=118800)
 
 <!--
