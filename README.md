@@ -8,6 +8,8 @@ I'm reliable, easy to work with, and love turning ideas into great-looking sites
 
 Matthew Toledo social media site.  <a href="https://matthewftoledo-social.netlify.app/" target="_blank">Social Media webpage</a>
 
+## What I Use
+
 HTML | CSS | JavaScript | React
 
 VS Code | Copilot | ChatGPT
@@ -20,6 +22,8 @@ VS Code | Copilot | ChatGPT
 ![VSCODE](/icons8-vs-code-96.png)
 ![COPILOT](/icons8-github-copilot-100.png)
 ![CHATGPT](/icons8-chatgpt-96.png)
+
+## Some things about me
 
 🔭 I’m currently working on small HTML and CSS projects.
 
