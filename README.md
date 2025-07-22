@@ -25,7 +25,7 @@ VS Code | Copilot | ChatGPT
 
 ## Some things about me
 
-🔭 I’m currently working on small HTML and CSS projects.
+🔭 I’m currently working on small HTML, CSS, JavaScript and React projects.
 
 🌱 I’m currently learning JavaScript.
 
