@@ -10,7 +10,7 @@ Matthew Toledo social media site.  <a href="https://matthewftoledo-social.netlif
 
 ## What I Use
 
-HTML | CSS | JavaScript | React
+HTML | CSS | JavaScript | React | Vite
 
 VS Code | Copilot | ChatGPT
 
@@ -18,6 +18,7 @@ VS Code | Copilot | ChatGPT
 ![CSS](/icons8-css-100.png)
 ![JAVASCRIPT](/icons8-javascript-100.png)
 ![REACT](/icons8-react-100.png)
+![VITE](/icons8-vite-100.png)
 
 ![VSCODE](/icons8-vs-code-96.png)
 ![COPILOT](/icons8-github-copilot-100.png)
