@@ -6,11 +6,11 @@ I'm reliable, easy to work with, and love turning ideas into great-looking sites
 
 ---
 
-## What I've done outside
+## WHAT I'VE DONE OUTSIDE
 
 Matthew Toledo social media site.  <a href="https://matthewftoledo-social.netlify.app/" target="_blank">Social Media webpage</a>
 
-## What I Use
+## WHAT I USE
 
 HTML | CSS | JavaScript | React | Vite
 
@@ -26,7 +26,7 @@ VS Code | Copilot | ChatGPT
 ![COPILOT](/icons8-github-copilot-100.png)
 ![CHATGPT](/icons8-chatgpt-96.png)
 
-## Some things about me
+## SOME THINGS ABOUT ME
 
 🔭 I’m currently working on small HTML, CSS, JavaScript and React projects.
 
