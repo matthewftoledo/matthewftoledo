@@ -1,4 +1,4 @@
-# I'm Matthew Toledo and I'm a Web Developer. 👋🏻
+# I'm Matthew Toledo and I'm a Web Developer 👋🏻
 
 I build clean, responsive websites using HTML, CSS, and JavaScript.
 I code in VS Code and use Copilot and ChatGPT to move fast and solve problems.
