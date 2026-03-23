@@ -1,62 +1,67 @@
-# I'm Matthew Toledo and I'm a Web Developer 👋🏻
+# Hi, I'm Matthew Toledo 👋
 
-I build clean, responsive websites using HTML, CSS, and JavaScript.
-I code in VS Code and use Copilot and ChatGPT to move fast and solve problems.
-I'm reliable, easy to work with, and love turning ideas into great-looking sites.
+Frontend developer focused on building clean, responsive web applications using HTML, CSS, JavaScript, and React.
+
+I enjoy turning ideas into interactive user experiences and continuously improving my frontend skills through real projects.
 
 ---
 
-## WHAT I'VE DONE OUTSIDE
+## 🚀 Featured Projects
 
-Personal Website... <a href="https://personalwebsite001.netlify.app/" target="_blank">Personal Website</a>
+### 🔹 Personal Website
+🔗 https://personalwebsite001.netlify.app/  
+A responsive personal website showcasing layout design and styling.
 
-Mood Tracker... <a href="https://mood-tracker-production-a4a9.up.railway.app/" target="_blank">Mood Tracker</a>
+---
 
-Matthew Toledo social media site...  <a href="https://matthewftoledo-social.netlify.app/" target="_blank">Social Media webpage</a>
+### 🔹 Mood Tracker App
+🔗 https://mood-tracker-production-a4g9.up.railway.app/  
+A simple app to track moods, focused on UI and user interaction.
 
-## WHAT I'VE DONE INSIDE
+---
 
-Pricing Card Design => <a href="https://matthewftoledo.github.io/pricingCardDesign/" target="_blank">Pricing Card Design</a>
+### 🔹 Social Media Webpage
+🔗 https://matthewtoledo-social.netlify.app/  
+Frontend layout simulating a social media interface.
 
-## WHAT I USE
+---
 
-HTML | CSS | JavaScript | React | Vite
+### 🔹 Pricing Card Design
+🔗 https://matthewtoledo.github.io/pricingCardDesign/  
+Modern UI design using HTML and CSS.
 
-VS Code | Copilot | ChatGPT
+---
 
-![HTML](/icons8-html5-100.png)
-![CSS](/icons8-css-100.png)
-![JAVASCRIPT](/icons8-javascript-100.png)
-![REACT](/icons8-react-100.png)
-![VITE](/icons8-vite-100.png)
+## 🛠 Tech Stack
 
-![VSCODE](/icons8-vs-code-96.png)
-![COPILOT](/icons8-github-copilot-100.png)
-![CHATGPT](/icons8-chatgpt-96.png)
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Git & GitHub
+- VS Code
 
-## SOME THINGS ABOUT ME
+---
 
-🔭 I’m currently working on small HTML, CSS, JavaScript and React projects.
+## 🎯 What I'm Working On
 
-🌱 I’m currently learning JavaScript.
+- Building more interactive JavaScript applications
+- Strengthening React fundamentals
+- Creating job-ready frontend projects
+- Improving UI/UX and responsive design
 
-🤔 I’m looking for help with learning JavaScript I know data type, basic function.  I guess what I need to know is Call Backs.
+---
 
-📫 How to reach me: LinkedIn or email.
+## 📫 Connect With Me
 
-![](https://komarev.com/ghpvc/?username=matthewftoledo&color=118800)
+- GitHub: https://github.com/matthewtoledo
+- LinkedIn: (add your link here if you have one)
 
-<!--
-**matthewftoledo/matthewftoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy building clean and simple user interfaces
+- I’m consistent with learning and improving daily
+- I’m focused on becoming a professional frontend developer
