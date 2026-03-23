@@ -56,7 +56,7 @@ Modern UI design using HTML and CSS.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/matthewtoledo
-- LinkedIn: (add your link here if you have one)
+- LinkedIn: https://www.linkedin.com/in/matttoledo
 
 ---
 
