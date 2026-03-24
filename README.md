@@ -14,12 +14,6 @@ A responsive personal website showcasing layout design and styling.
 
 ---
 
-### 🔹 Mood Tracker App
-🔗 https://mood-tracker-production-a4g9.up.railway.app/  
-A simple app to track moods, focused on UI and user interaction.
-
----
-
 ### 🔹 Social Media Webpage
 🔗 https://matthewftoledo-social.netlify.app/  
 Frontend layout simulating a social media interface.
@@ -28,7 +22,6 @@ Frontend layout simulating a social media interface.
 
 ### 🔹 Pricing Card Design
 🔗 https://matthewftoledo.github.io/pricingCardDesign/
-
 Modern UI design using HTML and CSS.
 
 ---
