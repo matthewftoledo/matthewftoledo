@@ -38,6 +38,15 @@ Modern UI design built with HTML and CSS.
 
 ---
 
+## 🤖 AI Tools
+
+- ChatGPT – used for debugging, learning concepts, and accelerating development
+- GitHub Copilot – assists with code suggestions and improving workflow
+
+I use AI as a productivity tool to help me learn faster, solve problems, and build projects more efficiently.
+
+---
+
 ## 🎯 What I'm Working On
 
 - Building more interactive JavaScript applications  
