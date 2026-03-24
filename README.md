@@ -21,7 +21,7 @@ A simple app to track moods, focused on UI and user interaction.
 ---
 
 ### 🔹 Social Media Webpage
-🔗 https://matthewtoledo-social.netlify.app/  
+🔗 https://matthewftoledo-social.netlify.app/  
 Frontend layout simulating a social media interface.
 
 ---
