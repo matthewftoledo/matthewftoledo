@@ -15,7 +15,7 @@ Responsive personal website showcasing layout design and styling.
 ---
 
 ### 🔹 Social Media Webpage
-🔗 [Live Demo](https://matthewtoledo-social.netlify.app/)  
+🔗 [Live Demo](https://matthewftoledo-social.netlify.app/)  
 Frontend layout simulating a social media interface.
 
 ---
