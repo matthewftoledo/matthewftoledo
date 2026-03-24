@@ -21,7 +21,7 @@ Frontend layout simulating a social media interface.
 ---
 
 ### 🔹 Pricing Card Design
-🔗 [Live Demo](https://matthewtoledo.github.io/pricingCardDesign/)  
+🔗 [Live Demo](https://matthewftoledo.github.io/pricingCardDesign/)  
 Modern UI design built with HTML and CSS.
 
 ---
