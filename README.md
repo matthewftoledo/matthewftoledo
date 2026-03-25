@@ -8,6 +8,11 @@ I enjoy turning ideas into interactive user experiences and continuously improvi
 
 ## 🚀 Featured Projects
 
+### 🔹 Task Manager App ⭐
+🔗 [Live Demo](https://matthewftoledo.github.io/task-manager-js/)  
+💻 [GitHub Repo](https://github.com/matthewtoledo/task-manager-js)  
+Task manager with add, complete, delete, filter, and localStorage functionality built with JavaScript.
+
 ### 🔹 Personal Website
 🔗 [Live Demo](https://personalwebsite001.netlify.app/)  
 Responsive personal website showcasing layout design and styling.
