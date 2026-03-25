@@ -11,15 +11,15 @@ I enjoy turning ideas into interactive user experiences and continuously improvi
 ### 🔹 Task Manager App ⭐
 <img width="300" alt="task-manager" src="https://github.com/user-attachments/assets/23821072-121f-45ea-a594-1943810a0992" />
 
-🔗 [Live Demo](https://matthewftoledo.github.io/task-manager-js/)  
-💻 [GitHub Repo](https://github.com/matthewftoledo/task-manager-js)  
+🔗 [Live Demo](https://matthewftoledo.github.io/task-manager-js/) • 💻 [GitHub Repo](https://github.com/matthewftoledo/task-manager-js)  
 Task manager with add, complete, delete, filter, and localStorage functionality built with JavaScript.
+
+---
 
 ### 🔹 Personal Website
 <img width="300" alt="personal-site" src="https://github.com/user-attachments/assets/e97d642c-615f-4d99-a39b-08f75bbef928" />
 
-🔗 [Live Demo](https://personalwebsite001.netlify.app/)  
-💻 [GitHub Repo](https://app.netlify.com/projects/personalwebsite001/overview)  
+🔗 [Live Demo](https://personalwebsite001.netlify.app/) • 💻 [GitHub Repo](https://app.netlify.com/projects/personalwebsite001/overview)  
 Responsive personal website showcasing layout design and styling.
 
 ---
@@ -27,8 +27,7 @@ Responsive personal website showcasing layout design and styling.
 ### 🔹 Social Media Webpage
 <img width="300" alt="social-media" src="https://github.com/user-attachments/assets/724bed5b-d8cf-4cc4-98be-e803af18e2ab" />
 
-🔗 [Live Demo](https://matthewftoledo-social.netlify.app/)  
-💻 [GitHub Repo](https://app.netlify.com/projects/matthewftoledo-social/overview)  
+🔗 [Live Demo](https://matthewftoledo-social.netlify.app/) • 💻 [GitHub Repo](https://app.netlify.com/projects/matthewftoledo-social/overview)  
 Frontend layout simulating a social media interface.
 
 ---
@@ -36,8 +35,7 @@ Frontend layout simulating a social media interface.
 ### 🔹 Pricing Card Design
 <img width="300" height="1287" alt="pricing-card" src="https://github.com/user-attachments/assets/8bc8d845-132c-45b5-9b7e-7a55366ed058" />
 
-🔗 [Live Demo](https://matthewftoledo.github.io/pricingCardDesign/)  
-💻 [GitHub Repo](https://github.com/matthewftoledo/pricingCardDesign)  
+🔗 [Live Demo](https://matthewftoledo.github.io/pricingCardDesign/) • 💻 [GitHub Repo](https://github.com/matthewftoledo/pricingCardDesign)  
 Modern UI design built with HTML and CSS.
 
 ---
