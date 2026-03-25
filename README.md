@@ -10,7 +10,7 @@ I enjoy turning ideas into interactive user experiences and continuously improvi
 
 ### 🔹 Task Manager App ⭐
 🔗 [Live Demo](https://matthewftoledo.github.io/task-manager-js/)  
-💻 [GitHub Repo](https://github.com/matthewtoledo/task-manager-js)  
+💻 [GitHub Repo](https://github.com/matthewftoledo/task-manager-js)  
 Task manager with add, complete, delete, filter, and localStorage functionality built with JavaScript.
 
 ### 🔹 Personal Website
