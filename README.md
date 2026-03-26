@@ -11,7 +11,7 @@ Currently building interactive projects and preparing for frontend developer rol
 ## 🚀 Featured Projects
 
 ### 🔹 Task Manager App ⭐
-<img width="300" alt="task-manager" src="https://github.com/user-attachments/assets/23821072-121f-45ea-a594-1943810a0992" />
+<img width="250" alt="task-manager" src="https://github.com/user-attachments/assets/23821072-121f-45ea-a594-1943810a0992" />
 
 🔗 [Live Demo](https://matthewftoledo.github.io/task-manager-js/) • 💻 [GitHub Repo](https://github.com/matthewftoledo/task-manager-js)  
 Task manager with add, complete, delete, filter, and localStorage functionality built with JavaScript.
@@ -19,7 +19,7 @@ Task manager with add, complete, delete, filter, and localStorage functionality 
 ---
 
 ### 🔹 Personal Website
-<img width="300" alt="personal-site" src="https://github.com/user-attachments/assets/e97d642c-615f-4d99-a39b-08f75bbef928" />
+<img width="250" alt="personal-site" src="https://github.com/user-attachments/assets/e97d642c-615f-4d99-a39b-08f75bbef928" />
 
 🔗 [Live Demo](https://personalwebsite001.netlify.app/) • 💻 [Repo](https://app.netlify.com/projects/personalwebsite001/overview)  
 Responsive personal website showcasing layout design and styling.
@@ -27,7 +27,7 @@ Responsive personal website showcasing layout design and styling.
 ---
 
 ### 🔹 Social Media Webpage
-<img width="300" alt="social-media" src="https://github.com/user-attachments/assets/724bed5b-d8cf-4cc4-98be-e803af18e2ab" />
+<img width="250" alt="social-media" src="https://github.com/user-attachments/assets/724bed5b-d8cf-4cc4-98be-e803af18e2ab" />
 
 🔗 [Live Demo](https://matthewftoledo-social.netlify.app/) • 💻 [Repo](https://app.netlify.com/projects/matthewftoledo-social/overview)  
 Frontend layout simulating a social media interface.
@@ -35,7 +35,7 @@ Frontend layout simulating a social media interface.
 ---
 
 ### 🔹 Pricing Card Design
-<img width="300" height="1287" alt="pricing-card" src="https://github.com/user-attachments/assets/8bc8d845-132c-45b5-9b7e-7a55366ed058" />
+<img width="250" height="1287" alt="pricing-card" src="https://github.com/user-attachments/assets/8bc8d845-132c-45b5-9b7e-7a55366ed058" />
 
 🔗 [Live Demo](https://matthewftoledo.github.io/pricingCardDesign/) • 💻 [GitHub Repo](https://github.com/matthewftoledo/pricingCardDesign)  
 Modern UI design built with HTML and CSS.
