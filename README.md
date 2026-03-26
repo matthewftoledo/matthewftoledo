@@ -19,7 +19,7 @@ Task manager with add, complete, delete, filter, and localStorage functionality 
 ### 🔹 Personal Website
 <img width="300" alt="personal-site" src="https://github.com/user-attachments/assets/e97d642c-615f-4d99-a39b-08f75bbef928" />
 
-🔗 [Live Demo](https://personalwebsite001.netlify.app/) • 💻 [GitHub Repo](https://app.netlify.com/projects/personalwebsite001/overview)  
+🔗 [Live Demo](https://personalwebsite001.netlify.app/) • 💻 [Repo](https://app.netlify.com/projects/personalwebsite001/overview)  
 Responsive personal website showcasing layout design and styling.
 
 ---
@@ -27,7 +27,7 @@ Responsive personal website showcasing layout design and styling.
 ### 🔹 Social Media Webpage
 <img width="300" alt="social-media" src="https://github.com/user-attachments/assets/724bed5b-d8cf-4cc4-98be-e803af18e2ab" />
 
-🔗 [Live Demo](https://matthewftoledo-social.netlify.app/) • 💻 [GitHub Repo](https://app.netlify.com/projects/matthewftoledo-social/overview)  
+🔗 [Live Demo](https://matthewftoledo-social.netlify.app/) • 💻 [Repo](https://app.netlify.com/projects/matthewftoledo-social/overview)  
 Frontend layout simulating a social media interface.
 
 ---
