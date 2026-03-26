@@ -4,7 +4,7 @@ Frontend developer focused on building clean, responsive web applications using 
 
 Currently building interactive projects and preparing for frontend developer roles.  
 
-📫 Open to internship and junior frontend opportunities
+📫 Open to internship and frontend opportunities
 
 ---
 
