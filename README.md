@@ -2,7 +2,7 @@
 
 Frontend developer focused on building clean, responsive web applications using HTML, CSS, JavaScript, and React.
 
-I enjoy turning ideas into interactive user experiences and continuously improving my frontend skills through real projects.
+Currently building interactive projects and preparing for frontend developer roles.
 
 ---
 
