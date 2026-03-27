@@ -76,8 +76,8 @@ I use AI as a productivity tool to help me learn faster, solve problems, and bui
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/matthewtoledo  
-- LinkedIn: https://www.linkedin.com/in/matthewtoledo  
+- GitHub: https://github.com/matthewftoledo  
+- LinkedIn: https://www.linkedin.com/in/matttoledo/  
 
 ---
 
