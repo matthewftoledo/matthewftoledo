@@ -31,7 +31,7 @@ Responsive portfolio website showcasing layout design and UI skills.
 ### 🔹 Social Media Webpage
 <img width="250" alt="social-media" src="https://github.com/user-attachments/assets/724bed5b-d8cf-4cc4-98be-e803af18e2ab" />
 
-🔗 [Live Demo](https://matthewftoledo-social.netlify.app/) • 💻 [Repo](https://app.netlify.com/projects/matthewftoledo-social/overview)  
+🔗 [Live Demo](https://matthewftoledo.github.io/matthewftoledo-social/) • 💻 [Repo](https://github.com/matthewftoledo/matthewftoledo-social)  
 Frontend UI simulating a modern social media interface.
 
 ---
