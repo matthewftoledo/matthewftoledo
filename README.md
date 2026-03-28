@@ -23,7 +23,7 @@ JavaScript task manager with add, complete, delete, filter, and localStorage per
 ### 🔹 Personal Website
 <img width="250" alt="personal-site" src="https://github.com/user-attachments/assets/e97d642c-615f-4d99-a39b-08f75bbef928" />
 
-🔗 [Live Demo](https://personalwebsite001.netlify.app/) • 💻 [Repo](https://app.netlify.com/projects/personalwebsite001/overview)  
+🔗 [Live Demo](https://matthewftoledo.github.io/matthewftoledo-personalWebsite/) • 💻 [GitHub Repo](https://github.com/matthewftoledo/matthewftoledo-personalWebsite)  
 Responsive portfolio website showcasing layout design and UI skills.
 
 ---
@@ -31,7 +31,7 @@ Responsive portfolio website showcasing layout design and UI skills.
 ### 🔹 Social Media Webpage
 <img width="250" alt="social-media" src="https://github.com/user-attachments/assets/724bed5b-d8cf-4cc4-98be-e803af18e2ab" />
 
-🔗 [Live Demo](https://matthewftoledo.github.io/matthewftoledo-social/) • 💻 [Repo](https://github.com/matthewftoledo/matthewftoledo-social)  
+🔗 [Live Demo](https://matthewftoledo.github.io/matthewftoledo-social/) • 💻 [GitHub Repo](https://github.com/matthewftoledo/matthewftoledo-social)  
 Frontend UI simulating a modern social media interface.
 
 ---
