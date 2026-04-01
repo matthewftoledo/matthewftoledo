@@ -86,3 +86,8 @@ I use AI as a productivity tool to help me learn faster, solve problems, and bui
 - I enjoy building clean and simple user interfaces  
 - I’m consistent with learning and improving daily  
 - I’m focused on becoming a professional frontend developer  
+
+---
+
+✨ Open Source Contribution:
+React-projects-for-beginners (merged PR)
