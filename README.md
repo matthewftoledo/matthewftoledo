@@ -37,7 +37,7 @@ Frontend UI simulating a modern social media interface.
 ---
 
 ### 🔹 Pricing Card Design
-<img width="250" height="1287" alt="pricing-card" src="https://raw.githubusercontent.com/matthewftoledo/matthewftoledo/main/matthewftoledo-pricing-card.png" />
+<img width="250" alt="pricing-card" src="https://raw.githubusercontent.com/matthewftoledo/matthewftoledo/main/matthewftoledo-pricing-card.png" />
 
 🔗 [Live Demo](https://matthewftoledo.github.io/pricingCardDesign/) • 💻 [GitHub Repo](https://github.com/matthewftoledo/pricingCardDesign)  
 Clean and modern pricing card UI built with HTML and CSS.
